@@ -14,9 +14,9 @@ using a Leap Motion controller.
 
 Install requirements (lazylights) using the following command:
 
-....
+```
 pip install -r requirements.txt
-....
+```
 
 You may need to follow the instructions under "Using a Different Python Distribution" on the following page to enable
 the LeapPython.so under lib for mac or linux -
